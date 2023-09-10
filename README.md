@@ -1,3 +1,2 @@
-# oop"12422009" 
-"ma sinh viˆn c?a b?n" 
+oop
 "12422009" 
