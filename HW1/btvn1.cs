@@ -10,11 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Họ và tên: Đỗ Cao Huy ");
-            Console.WriteLine("Mã sinh viên: 12422009");
-            Console.WriteLine("Lớp: 12422TN");
-            Console.WriteLine("Username GitHub: Huy Cao ");
-            Console.WriteLine("Địa chỉ email: caohuy5949@gmail.com ");
+            Console.Write("Họ và tên:Đỗ Cao Huy/t");
+            Console.Write("Mã sinh viên:12422009/t");
+            Console.Write("Lớp:12422TN/t");
+            Console.Write("Username GitHub:Huy Cao/t");
+            Console.Write("Địa chỉ email:caohuy5949@gmail.com");
         }
     }
 }
